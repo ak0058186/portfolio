@@ -1,0 +1,51 @@
+body{
+    background-image: url("");
+
+}
+
+h1{
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: black;
+
+   
+}
+
+p{
+    text-align: top;
+    /* text-align: end; */
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: black;
+}
+.my-icon{
+    font-size: 30px;
+    color: black;
+    background-image: url("LInkedin.png");
+    <img src="LInkedin.png>
+    
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.social-profile {
+    border-image: bottom;
+    border: end;
+    /* position: fixed; */
+    /* bottom: 20px; */
+    /* right: 20px; */
+    /* display: flex; */
+    /* flex-direction: column; */
+  }
+  
+  .social-profile a {
+
+    margin-bottom: 10px;
+  }
+  
+  .social-profile a img {
+    width: 32px;
+    height: 32px;
+  }
